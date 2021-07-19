@@ -32,7 +32,6 @@ Control a LED strip using an Arduino PWM, an N-Channel MOSFET
 
 
 - Layout driver PWM RGB
-- 
 ![layout](https://user-images.githubusercontent.com/50385294/126099181-b772600f-7268-40e1-ae47-5bb766985901.png)
 
 - Running Test
