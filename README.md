@@ -8,7 +8,7 @@ Control a LED strip using an Arduino PWM, an N-Channel MOSFET
 - PSU 24V 150W / 6.25A
 
 # Component Driver Pwm
-- Transistor Mosfer IRF 3205
+- Transistor Mosfet IRF 3205
 - Optocoupler PC817
 - Resistor 100 Ω
 - Resistor 330 Ω
